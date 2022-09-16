@@ -5,7 +5,7 @@
 
 🥇 Frontend Development: Javascript, Typescript, React.js ( Gatsby, Next.js ), Vue.js ( Nuxt.js, Quasar, Vuesax, Vuetify), Angular ( js, 2.0, 4.0, 5.0, 6.0, 7.0, 8.0, 9.0, 10.0 ), Shopify
 
-🥇 Backend Development: Node.js ( Express.js, Koa.js, Nest.js), PHP ( Laravel, CodeIgnitor ), Python ( Django, flask )
+🥇 Backend Development: Node.js ( Express.js, Koa.js, Nest.js), PHP ( Laravel, CodeIgnitor ), Python ( Django, flask ), ASP.NET, Spring Boot
 
 🥇 Game Developement: C++, Python, Unitt, Three.js , D3.js
 
