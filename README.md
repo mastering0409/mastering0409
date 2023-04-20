@@ -5,7 +5,7 @@
 
 🥇 Backend Development: Node.js ( Express.js), PHP ( Laravel ), Python ( Django )
 
-🥇 Hybrid Mobile App Development: React-Native, Ionic, Flutter
+🥇 Hybrid Mobile App Development: React-Native
 
 🥉 Test Framework: Jest, Cypress, Playwright
 
