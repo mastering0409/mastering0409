@@ -1,9 +1,9 @@
 
 ✨ Technical Stacks ✨
 
-🥇 Frontend Development: Javascript, Typescript, React.js ( Next.js ), Vue.js, Shopify
+🥇 Frontend Development: Javascript, Typescript, React.js ( Next.js ), Vue3, (Nuxt 3), Remix
 
-🥇 Backend Development: Node.js ( Express.js), PHP ( Laravel ), Python ( Django )
+🥇 Backend Development: Node.js ( ExpressJS, NesetJS), PHP ( Laravel ), Python ( Django )
 
 🥇 Hybrid Mobile App Development: React-Native
 
