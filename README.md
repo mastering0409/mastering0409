@@ -3,9 +3,11 @@
 
 🥇 Frontend Development: Javascript, Typescript, React.js ( Next.js ), Vue3, (Nuxt 3), Remix
 
-🥇 Backend Development: Node.js ( ExpressJS, NesetJS), PHP ( Laravel ), Python ( Django )
+🥇 Backend Development: Node.js ( ExpressJS, NestJS), PHP ( Laravel ), Python ( Django )
 
 🥇 Hybrid Mobile App Development: React-Native
+
+🥇 DevOps: CI/CD, AWS, Jenkins, Docker, 
 
 🥉 Test Framework: Jest, Cypress, Playwright
 
