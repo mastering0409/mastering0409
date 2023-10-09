@@ -11,6 +11,8 @@
 
 🥉 Test Framework: Jest, Cypress, Playwright
 
+🥉 Others: Trading, Golang, C++, Big Data processing
+
 ---
 ### :hammer_and_wrench: Languages and Tools :
 
