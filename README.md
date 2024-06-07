@@ -5,7 +5,7 @@
 
 🥇 Backend Development: Node.js ( ExpressJS, NestJS), PHP ( Laravel ), Python ( Django )
 
-🥇 Hybrid Mobile App Development: React-Native,
+🥇 Hybrid Mobile App Development: React-Native, Flutter
 
 🥇 DevOps: CI/CD, AWS, Jenkins, Docker, 
 
